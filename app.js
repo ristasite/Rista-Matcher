@@ -1,7 +1,7 @@
 (() => {
   const cfg = window.RISTA_CONFIG || {};
   const smartlink = cfg.SMARTLINK_URL || "";
-  const grid = document.getElementById("profileGrid");
+  const grid = document.getElementById("profile-grid");
 
   function validSmartLink() {
     try {
@@ -35,7 +35,7 @@
       card.innerHTML = `
         <div class="profile-image-wrap">
           <img src="${p.image}" alt="${p.name}" loading="lazy"
-               onerror="this.src='profiles/fallback.svg'">
+               onerror="this.src='fallback.svg'">
           <span class="profile-badge">View Match</span>
         </div>
         <div class="profile-info">
