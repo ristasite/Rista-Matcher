@@ -2,12 +2,8 @@ window.RISTA_CONFIG = {
   SMARTLINK_URL: "https://www.profitableratecpmnetwork.com/gg8s7ebhp?key=cd4616df729e5a76a6171fda744b5e64",
   ADS: {
     topBanner: "",
-    nativeTop: "<script async="async" data-cfasync="false" src="https://pl31165870.profitableratecpmnetwork.com/08743d6cefec68b2d382d03d78d05def/invoke.js"></script>
-<div id="container-08743d6cefec68b2d382d03d78d05def"></div>
-",
-    nativeBottom: "<script async="async" data-cfasync="false" src="https://pl31165870.profitableratecpmnetwork.com/08743d6cefec68b2d382d03d78d05def/invoke.js"></script>
-<div id="container-08743d6cefec68b2d382d03d78d05def"></div>
-",
+    nativeTop: "",
+    nativeBottom: "",
     highRevenue: "",
     sideLeft: "",
     sideRight: "",
